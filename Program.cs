@@ -36,6 +36,7 @@ namespace TD_6_Bis_Labyrinthe
                 Console.WriteLine();
                 try { character.NextMove(Console.ReadLine()); }                                  
                 catch (IndexOutOfRangeException) { }        // J'avais dans un premier temps un problème car le personnage passait au travers des murs, j'ai donc utilisé le try/catch pour que le programme ne crash pas lorsqu'on sort des limites de la matrice. Mais ce n'est plus utile maintenant que tout fonctionne correctement.
+                Console.Clear();
             }
             Console.WriteLine();
             Console.WriteLine("Oh, je vois que vous avez trouvé la sortie ! Ca n'arrivera pas la prochaine fois 3:) ");
