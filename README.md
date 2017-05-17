@@ -4,4 +4,4 @@
 
 -------------------------------------------------------SCREENSHOT---------------------------------------------------------------------
 
-![alt text](https://raw.githubusercontent.com/Im2Slow/Labyrinthe/master/maze.png)
+![alt text](https://raw.githubusercontent.com/Im2Slow/Labyrinthe/master/test2.png)
