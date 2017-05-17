@@ -1,6 +1,6 @@
 # Labyrinthe
 
-3rd mid-semester quick project as an ESILV student => A (small)maze game !
+3rd mid-semester quick project as an ESILV student as we were starting to learn the basics of OOP : A (small)maze game !
 
 -------------------------------------------------------SCREENSHOT---------------------------------------------------------------------
 
